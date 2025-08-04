@@ -95,8 +95,8 @@ The dashboard is built on multiple relational tables structured for efficient an
 
 1. Download the `.pbix` file from the repository  
 2. Open it in Power BI Desktop  
-3. Update data source connections if prompted  
-4. If using R visuals, ensure R is installed and configured in Power BI  
+3. **Update data source connection, connect to avall.mbd in this repo. or download latest avall.mbd from NTSB website. see Source Data section above.**
+4. If using R visuals, ensure R is installed and configured in Power BI. ggplot2 is used for visual creation and need to be setup in R environment. 
 
 ## Future Enhancements
 
