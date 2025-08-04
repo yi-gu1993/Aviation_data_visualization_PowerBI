@@ -66,7 +66,7 @@ The dashboard is built on multiple relational tables structured for efficient an
 
 ## Notes
 
-- **1.1**: "Incidents" refer to less serious events that had the potential to escalate into accidents.  
+- **1.1**: 'Incidents' refer to less serious events that had the potential to escalate into accidents.  
 - **1.4**: Only major accidents involving more than 50 injuries are included.  
 - **2.4 – 2.6**: These visuals require R; they may not render properly without R installed.  
 - **2.4**: Aircraft flight hours track engine operation time, similar to a car's odometer—critical for assessing aircraft condition.  
