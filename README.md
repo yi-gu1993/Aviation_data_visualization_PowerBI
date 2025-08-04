@@ -93,10 +93,11 @@ The dashboard is built on multiple relational tables structured for efficient an
 
 ## Installation and Usage
 
-1. Download the `.pbix` file from the repository  
-2. Open it in Power BI Desktop  
-3. **Update data source connection, connect to avall.mbd in this repo. or download latest avall.mbd from NTSB website. see Source Data section above.**
-4. If using R visuals, ensure R is installed and configured in Power BI. ggplot2 is used for visual creation and need to be setup in R environment. 
+1. Download the `aviation_visualization.pbix` file from the repository  
+2. Download the `avall.zip` or download latest avall.mbd from NTSB website. see Source Data section above. **Extract to local folder.** 
+3. Open aviation_visualization.pbix in Power BI Desktop  
+4. **Update data source connection, connect to avall.mbd in this repo.**
+5. If using R visuals, ensure R is installed and configured in Power BI. ggplot2 is used for visual creation and need to be setup in R environment. 
 
 ## Future Enhancements
 
